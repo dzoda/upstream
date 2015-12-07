@@ -1,0 +1,36 @@
+name = dzoda-sub-theme
+description = Please provide a description for your theme.
+base theme = omega
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; ========================================
+; Stylesheets
+; ========================================
+stylesheets[all][] = css/dzoda-sub-theme.reset.css
+stylesheets[all][] = css/dzoda-sub-theme.styles.css
+stylesheets[all][] = css/style.css
+
+
+; ========================================
+; Scripts
+; ========================================
+scripts[] = js/dzoda-sub-theme.behaviors.js
+script[] = js/jquery-1.11.3.min.js
+scripts[] = js/proba.js
+
+
+; ========================================
+; Regions
+; ========================================
+
+
+regions[header]         = Header
+regions[navigation]     = Navigation
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[content]        = Content
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[footer]         = Footer

@@ -1,0 +1,515 @@
+.menu li {
+
+  display: inline;
+  margin-left: 20px;
+  float: right;
+  margin-right: 20px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+  font-weight: bold;
+
+}
+
+
+.home-slideshow {
+  width: 100%;
+  float: left;
+}
+
+.views-slideshow-cycle-main-frame {
+  width: 100% !important;
+  height: auto;
+}
+
+.views-slideshow-cycle-main-frame-row {
+  width: 100% !important;
+  height: auto;
+}
+.field-slideshow,
+.field-slideshow-slide {
+  max-width: 100%;
+  width: 100%;
+}
+
+.field-slideshow img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+
+
+
+
+#block-views-wor-block .views-view-grid {
+  width: 100%;
+  margin: auto;
+}
+
+
+
+
+
+
+
+#block-system-main-menu .menu {
+  position:relative;
+  right:5%;
+  top:30px;
+  z-index: 4;
+
+}
+
+#block-system-main-menu .menu a {color: white;
+  text-decoration: none;
+
+}
+
+#block-system-main-menu .menu a:hover
+{
+  font-size: 18px;
+}
+
+#block-views-logara-block > div > div > div > table > tbody > tr > td > div > div
+{
+  position: absolute;
+  left:100px;
+  top:30px;
+z-index: 4;
+    }
+
+
+#block-views-simple-block
+{
+  width: 80%;
+  margin: auto;
+}
+
+#block-views-simple-block > h2
+{
+  text-align: center;
+  font-size: 25px;
+  color: #00e6b8;
+  margin-top: 100px;
+  text-transform: uppercase;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+
+body > div > div > div > div.l-region.l-region--highlighted
+{
+  height: 450px;
+
+}
+
+#block-block-1
+{
+  position:absolute;
+  top:35%;
+  left:34%;
+color:white;
+  font-size: 25px;
+  z-index: 4;
+}
+
+#block-views-features-block > h2
+{
+  text-align: center;
+  font-size: 27px;
+  color: #00e6b8;
+  padding-top: 65px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+#block-views-features-block
+{
+  width: 100%;
+  background: rgba(66,217,237,1);
+  background: -moz-linear-gradient(45deg, rgba(66,217,237,1) 0%, rgba(212,245,179,0.73) 50%, rgba(176,245,110,0.46) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(66,217,237,1)), color-stop(50%, rgba(212,245,179,0.73)), color-stop(100%, rgba(176,245,110,0.46)));
+  background: -webkit-linear-gradient(45deg, rgba(66,217,237,1) 0%, rgba(212,245,179,0.73) 50%, rgba(176,245,110,0.46) 100%);
+  background: -o-linear-gradient(45deg, rgba(66,217,237,1) 0%, rgba(212,245,179,0.73) 50%, rgba(176,245,110,0.46) 100%);
+  background: -ms-linear-gradient(45deg, rgba(66,217,237,1) 0%, rgba(212,245,179,0.73) 50%, rgba(176,245,110,0.46) 100%);
+  background: linear-gradient(45deg, rgba(66,217,237,1) 0%, rgba(212,245,179,0.73) 50%, rgba(176,245,110,0.46) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#42d9ed', endColorstr='#b0f56e', GradientType=1 );
+  height: 480px;
+
+}
+
+/*
+#block-views-features-block > div
+{
+  position: relative;
+  top:50px;
+
+}
+
+
+
+
+#block-views-features-block > div > div > div > table > tbody > tr > td.col-1.col-first > div.views-field.views-field-title
+{
+  text-decoration: none;
+}
+
+*/
+
+
+
+#block-views-team-text-block > div > div > div
+{
+  width: 80%;
+  margin: auto;
+  padding-top: 50px;
+}
+
+#block-views-team-text-block > div > div > div > div > div.views-field.views-field-title
+{
+  text-align: center;
+  font-size: 30px;
+  color: #00e6b8;
+}
+
+
+
+
+
+
+
+#block-views-some-fun-facts-block > h2
+{
+  text-align: center;
+  font-size: 30px;
+  color: whitesmoke;
+  padding-top: 50px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+#block-views-some-fun-facts-block
+{
+  background-image: url("../images/fun.jpg");
+  width: 100%;
+  height: 400px;
+
+}
+
+#block-views-discuss-block{
+  width: 80%;
+  margin: auto;
+  text-align: justify;
+}
+
+#block-views-discuss-block > h2
+{
+  text-align: center;
+  font-size: 30px;
+  color: #00e6b8;
+  padding-top: 30px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+#block-views-contact-formaa-block > div > div > div
+{
+  width: 80%;
+  margin: auto;
+  padding-top: 50px;
+}
+
+#block-views-contact-formaa-block > div > div > div > table
+{
+  width: 60%;
+  margin: auto;
+
+}
+
+#block-views-contact-formaa-block > div > div > div > table > tbody > tr > td.col-1.col-first
+{padding-right: 100px;}
+
+body > div > footer > div
+{
+background-image: url("../images/foot.jpg");
+}
+
+#block-views-google-map-block > div > div > div > table > tbody > tr > td > div > div > iframe
+{
+  max-width: 100%;
+  opacity: 0.5;
+}
+
+#block-views-footer-block > div > div > div > div > div.views-field.views-field-body > div
+{
+  color: white;
+  width: 150px;
+  padding: 50px;
+}
+
+
+#block-views-contact-formaa-block
+{
+  background: rgba(231,245,248,1);
+  background: -moz-radial-gradient(center, ellipse cover, rgba(231,245,248,1) 0%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(231,245,248,1)), color-stop(100%, rgba(255,255,255,1)));
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(231,245,248,1) 0%, rgba(255,255,255,1) 100%);
+  background: -o-radial-gradient(center, ellipse cover, rgba(231,245,248,1) 0%, rgba(255,255,255,1) 100%);
+  background: -ms-radial-gradient(center, ellipse cover, rgba(231,245,248,1) 0%, rgba(255,255,255,1) 100%);
+  background: radial-gradient(ellipse at center, rgba(231,245,248,1) 0%, rgba(255,255,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7f5f8', endColorstr='#ffffff', GradientType=1 );
+color: gray;
+}
+
+
+
+
+#block-views-some-fun-facts-block > div > div > div > table a
+{
+  color:antiquewhite;
+  text-decoration: none;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+
+#block-views-some-fun-facts-block > div > div > div > table > tbody > tr > td.col-1.col-first > div.views-field.views-field-field-numbers
+{
+  font-size: 40px;
+color:yellow;
+}
+
+#block-views-some-fun-facts-block > div > div > div > table > tbody > tr > td.col-2 > div.views-field.views-field-field-numbers > div
+{
+  font-size: 40px;
+  color:yellow;
+}
+
+#block-views-some-fun-facts-block > div > div > div > table > tbody > tr > td.col-3 > div.views-field.views-field-field-numbers > div
+{
+  font-size: 40px;
+  color:yellow;
+}
+
+#block-views-some-fun-facts-block > div > div > div > table > tbody > tr > td.col-4.col-last > div.views-field.views-field-field-numbers > div
+{
+  font-size: 40px;
+  color:yellow;
+}
+
+
+#block-views-footer-block > div > div > div > div > div.views-field.views-field-field-image4 > div > img
+{
+  margin-left:60px ;
+}
+
+
+#webform-client-form-32 > div
+{
+  font-size: 10px;
+}
+
+input[type=text] {
+  padding:5px;
+  border:1px solid #ccc;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+input[type=text]:focus {
+  border-color:#333;
+}
+
+input[type=submit] {
+  padding:5px 15px;
+
+  border:0 none;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9eccfa+0,d7edff+100 */
+  background: #9eccfa; /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover,  #9eccfa 0%, #d7edff 100%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover,  #9eccfa 0%,#d7edff 100%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center,  #9eccfa 0%,#d7edff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9eccfa', endColorstr='#d7edff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+  color: gray;
+}
+
+#webform-client-form-32 > div > div.form-actions
+{padding-top: 20px;
+float: right;
+}
+
+#block-views-contact-formaa-block > div > div > div > table > tbody > tr > td.col-1.col-first > div.views-field.views-field-body
+{
+  position: relative;
+  top:-30px;
+  left:-50px;
+}
+
+#block-views-some-fun-facts-block > div > div > div > table
+{
+  margin: auto;
+}
+
+
+
+#block-system-powered-by > div
+{
+  padding-left: 50px;
+  padding-bottom: 15px;
+  color:whitesmoke;
+}
+#block-system-powered-by > div a
+{
+text-decoration: none;
+  color: darkslategrey;
+
+}
+
+#block-views-features-block > div > div > div a
+{
+  text-decoration: none;
+  font-size: 24px;
+  color:black;
+}
+
+#block-views-team-text-block > div > div > div > div > div.views-field.views-field-title > span
+{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+
+}
+
+#block-system-powered-by > div > span
+{
+  position: relative;
+  top:20px;
+}
+
+
+
+.jcarousel-skin-tango .jcarousel-item {
+  padding: 0;
+  width: 290px;
+height: 300px;
+overflow: hidden;
+
+  list-style: none;
+
+}
+
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+  width: 900px;
+  height: auto;
+  padding: 20px 40px;
+  margin: auto;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+  width: auto;
+  overflow: hidden;
+}
+
+/*                            Default */
+
+#block-views-team-block > div > div > div a
+{
+  text-decoration: none;
+  color: darkslategray;
+}
+
+
+/* ---------------------------------------------------- */
+
+#block-views-team-block > div > div > div > div
+{
+  height: 380px;
+}
+
+#block-views-some-fun-facts-block > div.block__content > div > div
+{
+  color:seashell;
+  font-weight: bold;
+}
+
+#block-views-some-fun-facts-block > div > div > div > table
+{
+  width: 65%;
+}
+
+
+#block-views-contact-formaa-block > div > div > div > table > tbody > tr > td.col-1.col-first > div.views-field.views-field-body > div > p:nth-child(3) > a
+{
+  color:darkslategray;
+  text-decoration: none;
+}
+
+
+#block-views-team-block > div > div > div > div > div > div > ul > li.even.jcarousel-item.jcarousel-item-horizontal.jcarousel-item-2.jcarousel-item-2-horizontal > div.views-field.views-field-field-image3 :hover
+{
+
+  content: url('../images/t.jpg');
+  width: 220px;
+  height: 220px;
+  opacity: 0.7;
+}
+
+#block-views-team-block > div > div > div > div > div > div > ul > li.odd.jcarousel-item.jcarousel-item-horizontal.jcarousel-item-1.jcarousel-item-1-horizontal > div.views-field.views-field-field-image3 :hover
+{
+
+  content: url('../images/t.jpg');
+  width: 220px;
+  height: 220px;
+  opacity: 0.7;
+}
+
+
+#block-views-team-block > div > div > div > div > div > div > ul > li.odd.jcarousel-item.jcarousel-item-horizontal.jcarousel-item-3.jcarousel-item-3-horizontal > div.views-field.views-field-field-image3 :hover
+{
+
+  content: url('../images/t.jpg');
+  width: 220px;
+  height: 220px;
+  opacity: 0.7;
+}
+
+
+#block-views-team-block > div > div > div > div > div > div > ul > li.even.jcarousel-item.jcarousel-item-horizontal.jcarousel-item-4.jcarousel-item-4-horizontal > div.views-field.views-field-field-image3 :hover
+{
+
+  content: url('../images/t.jpg');
+  width: 220px;
+  height: 220px;
+  opacity: 0.7;
+}
+
+#block-views-team-block > div > div > div > div > div > div > ul > li.odd.jcarousel-item.jcarousel-item-horizontal.jcarousel-item-5.jcarousel-item-5-horizontal :hover
+{
+
+  content: url('../images/t.jpg');
+  width: 220px;
+  height: 220px;
+  opacity: 0.7;
+}
+
+#block-views-team-block > div > div > div > div > div > div > ul > li.even.jcarousel-item.jcarousel-item-horizontal.jcarousel-item-6.jcarousel-item-6-horizontal :hover
+{
+
+  content: url('../images/t.jpg');
+  width: 220px;
+  height: 220px;
+  opacity: 0.7;
+}
+
+
+
+
+
+
+
