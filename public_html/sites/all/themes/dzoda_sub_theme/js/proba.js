@@ -66,8 +66,6 @@ var param1 = {
   last: 4253
 };
 
-
-
 jQuery('#block-views-some-fun-facts-block > div > div > div > table > tbody > tr > td.col-2 > div.views-field.views-field-field-numbers > div').countUp(param1);
 
 } );

@@ -180,6 +180,15 @@ color:white;
 
 
 
+#block-views-some-fun-facts-block
+{
+  background-image: url('../images/fun.jpg');
+  width: 100%;
+  height: 400px;
+
+}
+
+
 
 #block-views-some-fun-facts-block > h2
 {
@@ -190,13 +199,9 @@ color:white;
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
 }
 
-#block-views-some-fun-facts-block
-{
-  background-image: url("../images/fun.jpg");
-  width: 100%;
-  height: 400px;
 
-}
+
+
 
 #block-views-discuss-block{
   width: 80%;
